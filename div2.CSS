@@ -1,0 +1,43 @@
+/* Seletor {
+Atributo: valor;
+}   */
+
+/* tipos de borda: 
+dotted
+dashed
+double
+solid 
+outset */
+
+body{
+    color:rgb(187, 164, 49);
+    background-color:rgb(13, 13, 13) ;
+
+}
+
+h1{
+    color:rgb(216, 200, 25);
+    background-color: rgba(181, 181, 80, 0.763);
+    text-align: center;
+    width: 120;
+    padding: 10px 0;
+    margin: 15px 0;
+    font-size: 20px;
+    font-family: Arial;
+    border-bottom: 10px outset rgba(188, 188, 50, 0.656);
+    border-top: 5px outset rgba(188, 188, 50, 0.656);
+    border-right: 7px outset rgba(188, 188, 50, 0.656);
+    border-left: 6px outset rgba(188, 188, 50, 0.656);
+}
+
+p{ 
+    color:rgb(187, 164, 49);
+}
+
+img{
+height: 350px;
+width: 350px;
+border: 8px outset rgb(146, 146, 146);
+border-radius: 10px ;
+
+}

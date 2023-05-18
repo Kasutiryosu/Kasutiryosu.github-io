@@ -1,0 +1,42 @@
+.inicio{
+    background-color: chocolate;
+    border: 3px dashed black;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.banner1{
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+#borda{
+border-radius: 30px;
+}
+
+#fonte{color: aqua;
+}
+
+#tamanho{width: 50%;
+}
+
+.banner1 div{background-color:aliceblue ;
+color: black;
+margin: 10px 0;
+}
+
+.fixa{
+color: crimson;
+border: 3px solid crimson;
+background-color: black;
+width: 40px;
+height: 40px;
+text-align: center;
+border-radius: 10px ;
+position: fixed;
+bottom: 20px;
+right: 50px;
+}
